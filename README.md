@@ -14,7 +14,7 @@
         
   **Instructions to use:**
   
-  To ensure proper code usage, it is necessary to have the required information stored in an Excel sheet. The initial step is to ensure the column is as follows: ticker, date, open, high, low, close, and volume. Additionally, it is essential to start storing data from cell "A2" in alphabetical order.
+    To ensure proper code usage, it is necessary to have the required information stored in an Excel sheet. The initial step is to ensure the column is as follows: ticker, date, open, high, low, close, and volume. Additionally, it is essential to start storing data from cell "A2" in alphabetical order.
   
   **Learning:**
   
